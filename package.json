@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-clipboard-manager",
+  "version": "1.0.0",
+  "description": "One Dionys (Clipboard Manager) - Functions for copying and pasting text to and from the user's clipboard.",
+  "main": "src/clipboardManager.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-clipboard-manager.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "clipboard-manager"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-clipboard-manager/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-clipboard-manager#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-animation-library": "^1.0.0",
+    "onedionys-cookie-management": "^1.0.0",
+    "onedionys-date-time-utilities": "^1.0.0",
+    "onedionys-lazy-loading-images": "^1.0.0",
+    "onedionys-pagination-component": "^1.0.0"
+  }
+}
