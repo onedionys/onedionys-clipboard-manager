@@ -1,6 +1,6 @@
 {
   "name": "onedionys-clipboard-manager",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Clipboard Manager) - Functions for copying and pasting text to and from the user's clipboard.",
   "main": "src/clipboardManager.js",
   "directories": {
